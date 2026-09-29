@@ -1,0 +1,62 @@
+{
+    "movies": [
+        {
+            "id": "M1",
+            "name": "Campus Days",
+            "language": "Hindi",
+            "price": 150,
+            "seats": [
+                "A1",
+                "A2",
+                "A3",
+                "A4",
+                "A5",
+                "B1",
+                "B2",
+                "B3",
+                "B4",
+                "B5"
+            ],
+            "booked_seats": []
+        },
+        {
+            "id": "M2",
+            "name": "The Last Journey",
+            "language": "English",
+            "price": 180,
+            "seats": [
+                "A1",
+                "A2",
+                "A3",
+                "A4",
+                "A5",
+                "B1",
+                "B2",
+                "B3",
+                "B4",
+                "B5"
+            ],
+            "booked_seats": []
+        },
+        {
+            "id": "M3",
+            "name": "Skyline",
+            "language": "Hindi",
+            "price": 200,
+            "seats": [
+                "A1",
+                "A2",
+                "A3",
+                "A4",
+                "A5",
+                "B1",
+                "B2",
+                "B3",
+                "B4",
+                "B5"
+            ],
+            "booked_seats": []
+        }
+    ],
+    "bookings": []
+}
